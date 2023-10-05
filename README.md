@@ -1,4 +1,2 @@
 # Guessing_Game_two
-this code is for a guessing game 
-select between two diffrent options to progress 
-if you select the correct option you mpove on ,incorrect choice results in death 
+correctly guess the winni-the -poo characters based on the hints given 
